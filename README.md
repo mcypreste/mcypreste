@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+  
+  # B.I.O
 
-<!--
-**mcypreste/mcypreste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ⚡ Sou um desenvolvedor Full-Stack e tenho conhecimentos nas linguagens 
+                |C#, C/C++, Python, JavaScript, Java|
+
+
+
+"Use seu conhecimento para gerir, 
+        desenvolver e mostrar para o 
+                      mundo suas aplicações!
+
+                      
+by Mohud, 19/8/2023"
+
+[![Linkedin Badge](https://img.shields.io/badge/-Michel%20Cypreste-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelcypreste/)](https://www.linkedin.com/in/michelcypreste/)
